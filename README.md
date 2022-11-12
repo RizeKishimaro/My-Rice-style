@@ -5,7 +5,7 @@
 * Dark theme Style with icons
 - added more styles in theme
 <br>
-#Installation
+# Installation
   Please consider that it was tested only on ubuntu.
 - Download the zip file
 - Place zip files in /home
